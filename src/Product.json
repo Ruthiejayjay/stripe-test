@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Books",
+        "image": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
+        "price": {"NGN": "200", "USD": "20"},
+        "priceId": "price_1LPLfcDw37K7KqJsgyLe79JY"
+    },
+    {
+        "id": 2,
+        "name": "Sunglasses",
+        "image": "https://images.ray-ban.com/is/image/RayBan/805289602057_0000.png?impolicy=SEO_16x9",
+        "price": {"NGN": "500", "USD": "1"},
+        "priceId": "price_1LPLggDw37K7KqJsRolJgtwO"
+    },
+    {
+        "id": 3,
+        "name": "Pancakes",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpXYFYupshpPGxgoeQJn9Gj5AhdTbecADDg&usqp=CAU",
+        "price": {"NGN": "300", "USD": "4"},
+        "priceId": "price_1LPLhWDw37K7KqJsc3qwFHpW"
+    },
+    {
+        "id": 4,
+        "name": "Donunts",
+        "image": "https://thumbs.dreamstime.com/b/colorful-donut-pattern-pastel-blue-background-creative-minimal-summer-concept-148128009.jpg",
+        "price": {"NGN": "300", "USD": "3"},
+        "priceId": "price_1LPLdADw37K7KqJsAVQM8Yv2"
+    },
+    {
+        "id": 5,
+        "name": "Shawarma",
+        "image": "https://img-global.cpcdn.com/recipes/63dd5b0440862cce/680x482cq70/chicken-shawarma-recipe-main-photo.jpg",
+        "price": {"NGN": "1500", "USD": "3"},
+        "priceId": "price_1LPLiSDw37K7KqJs2yHlsZ8t"
+    },
+    {
+        "id": 6,
+        "name": "Pizza",
+        "image": "https://static.toiimg.com/photo/msid-87930581/87930581.jpg?211826",
+        "price": {"NGN": "2000", "USD": "8"},
+        "priceId": "price_1LPLjVDw37K7KqJso2W0lVNR"
+    },
+    {
+        "id": 7,
+        "name": "Spring Rolls",
+        "image": "https://www.wikihow.com/images/thumb/4/47/Make-Crispy-Vegetable-Spring-Rolls-Step-7-Version-2.jpg/aid500529-v4-1200px-Make-Crispy-Vegetable-Spring-Rolls-Step-7-Version-2.jpg",
+        "price": {"NGN": "200", "USD": "3"},
+        "priceId": "price_1LP7fMDw37K7KqJsDh2Trllr"
+    },
+    {
+        "id": 8,
+        "name": "Chicken Pie",
+        "image": "https://1.bp.blogspot.com/-jsv8XCGv67s/VJQPS5a2WVI/AAAAAAAAD6A/Db9A6jdaAlc/s1600/Nigerian%2BChicken%2BPie.jpg",
+        "price": {"NGN": "300", "USD": "3"},
+        "priceId": "price_1LP9bUDw37K7KqJsaFdA1OE7"
+    },
+    {
+        "id": 9,
+        "name": "Meat Balls",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ28QmDWttOZXVWK1ZN5kgxWxV-S0HmOBO4mQ&usqp=CAU",
+        "price": {"NGN": "300", "USD": "3"},
+        "priceId": "price_1LP7fMDw37K7KqJsDh2Trllr"
+    },
+    {
+        "id": 10,
+        "name": "Chicken Nuggets",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidjJBc-I2k63V9z8aXJOgdcjuzo5URZ7-0g&usqp=CAU",
+        "price": {"NGN": "300", "USD": "3"},
+        "priceId": "price_1LP9dlDw37K7KqJs8FEvjh9l"
+    }
+]
