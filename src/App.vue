@@ -34,6 +34,7 @@
     </div>
   </div>
   <router-view :inventory="inventory" :addToCart="addToCart"/>
+  
   <Sidebar 
     v-if="showSidebar" 
     :toggle="toggleSidebar" 
